@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing : border-box;
+   
+  }
+
+  main {
+      text-align: center;
+
+    background-color: rgb(138, 138, 138);
+    
+
+}
+header{
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgb(247, 247, 247);
+}
+section {
+    padding-top: 10px;
+ padding-bottom: 10px;
+    text-size-adjust: 500px;
+    padding-left: 50px;
+
+}
+img {
+    margin-left: 50px;
+    background-color: rgb(247, 247, 247);
+
+}
+script {
+    text-align: center;
+}
